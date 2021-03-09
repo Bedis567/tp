@@ -1,6 +1,6 @@
 import React from "react";
 
-const CustomButton = () => {
+const CustomButton = (action) => {
   return (
     <div classname="button">
       <button>click me </button>
